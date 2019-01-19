@@ -10,7 +10,7 @@ import cucumber.api.junit.Cucumber;
 		features={"src\\test\\java\\JLogin\\feature"},
 		glue={"src\\test\\java\\JLogin\\step"},
 		monochrome=true,
-		tags={},
+		tags={"@smoke"},
 		plugin ={"pretty","html:target/cucumber","json:target/cucumber.json"}
 		)
 
