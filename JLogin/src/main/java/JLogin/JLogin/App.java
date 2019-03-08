@@ -9,6 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
+        System.out.println("test in feature");
         System.out.println("test in master branch");
     }
 }
