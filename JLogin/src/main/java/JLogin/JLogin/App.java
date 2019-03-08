@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("test in feature");
         System.out.println("test in master branch");
+        System.out.println("test in feature1 branch");
     }
 }
